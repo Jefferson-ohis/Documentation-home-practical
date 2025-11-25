@@ -52,3 +52,6 @@ this is a checkbox
       - content2.2.1
       - content2.2.2
   - content3
+
+This is another image  
+![cloud_image](https://github.com/Jefferson-ohis/Documentation-home-practical/blob/main/Screenshot%202025-09-15%20235231.png)
